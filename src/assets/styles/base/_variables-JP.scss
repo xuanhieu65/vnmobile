@@ -1,0 +1,82 @@
+// // breakpoints
+// $grid-breakpoints: (
+//     xxs: 360px,
+//     xs: 481px,
+//     sm: 768px,
+//     smplus: 769px,
+//     md: 992px,
+//     lg: 1025px,
+//     xl: 1200px
+// ); 
+
+// // fonts
+// $font-weight: (
+//     light: 300,
+//     regular: 400,
+//     medium: 500,
+//     bold: 700,
+//     heavy: 900
+// );
+
+// $fonts: (
+//     main: ("Roboto", 'Yu Mincho', "Sawarabi Mincho", "ヒラギノ角ゴ Pro W3", "メイリオ",sans-serif),
+//     heading: ('Kreon', sans-serif),
+//     content: ('ProximaNova', sans-serif),
+//     icomoon: ('icomoon'),
+//     fontawesome: ('Fontawesome')
+// );
+
+// $font-main: fonts(main);
+// $font-heading: fonts(heading);
+// $font-icomoon: fonts(icomoon);
+// $font-fontawesome: fonts(fontawesome);
+
+// $fontweight-light: fontWeight(light);
+// $fontweight-regular: fontWeight(regular);
+// $fontweight-medium: fontWeight(medium);
+// $fontweight-bold: fontWeight(bold);
+// $fontweight-heavy: fontWeight(heavy);
+
+// $fz-root: 62.5%; // root font-size, DO NOT CHANGE
+// $gutter: 2rem;
+// $gutter-xs: 1.5rem;
+// $gutter-md: 2rem;
+
+// // colors
+// $colors: (
+//     c-white: #fff,
+//     c-white-blur: #f5f6f7,
+//     c-blue: #0089ce,
+//     c-dark-blue: #003b59,
+//     c-dark-blue-navy: #00052e,
+//     c-pink: #ff566b,
+//     c-black: #000000,
+//     c-yellow: #f8b62d,
+//     c-gray: #e5ebee,
+//     c-gray-1: #ddd,
+//     c-pink-light: #EBCCD1,
+//     c-red: #A94442,
+// );
+// // // main-colors:
+// $bg-color-primary: color(c-blue);
+// $bg-color-primary-white: color(c-white);
+// $bg-color-primary-pink: color(c-pink);
+// $bg-color-black: color(c-black);
+// $bg-color-white-blur: color(c-white-blur);
+// $border-color-gray: color(c-gray);
+// $border-color-blue: color(c-blue);
+
+// $text-color-primary: color(c-dark-blue);
+// $text-color-secondary: color(c-white);
+// $text-color-black: color(c-black);
+// $text-color-blue: color(c-blue);
+// $text-color-gray-blur: color(c-gray-blur);
+
+// $page-border-radius: .3rem;
+// $btn-bg-color-primary: color(c-yellow);
+
+// $btn-text-color-primary: color(c-dark-blue-navy);
+
+// $header-border-color: color(c-gray);
+
+// $border-line-solid: 0.1rem solid rgba(0, 59, 89, 0.15);

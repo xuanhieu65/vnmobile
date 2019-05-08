@@ -1,0 +1,58 @@
+@import '_icomoon';
+
+@font-face {
+    font-family: 'Fontawesome';
+    font-display: fallback;
+    src: url('./fonts/FontAwesome/FontAwesome.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kreon';
+    font-display: fallback;
+    src: url('./fonts/Kreon/Kreon-Light.woff') format('woff'),
+        url('./fonts/Kreon/Kreon-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kreon';
+    font-display: fallback;
+    src: url('./fonts/Kreon/Kreon-Regular.woff') format('woff'),
+        url('./fonts/Kreon/Kreon-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kreon';
+    font-display: fallback;
+    src: url('./fonts/Kreon/Kreon-Bold.woff') format('woff'),
+        url('./fonts/Kreon/Kreon-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Averta';
+    font-display: fallback;
+    src: url('./fonts/Averta/Averta-Black.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Averta';
+    font-display: fallback;
+    src: url('./fonts/Averta/Averta-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Averta';
+    font-display: fallback;
+    src: url('./fonts/Averta/Averta.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
